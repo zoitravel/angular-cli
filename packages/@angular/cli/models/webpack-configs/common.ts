@@ -13,6 +13,9 @@ const ProgressPlugin = require('webpack/lib/ProgressPlugin');
  *
  * require('source-map-loader')
  * require('raw-loader')
+ * require('apply-loader')
+ * require('pug-loader')
+ * require('pug')
  * require('script-loader')
  * require('json-loader')
  * require('url-loader')
